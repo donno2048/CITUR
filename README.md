@@ -1,5 +1,5 @@
 # CITUR
-create iso to use Rosehip
+create iso to use [Rosehip](https://github.com/donno2048/Rosehip)
 
 run init.sh in linux to create the iso (this might take up to five hours!)
 
